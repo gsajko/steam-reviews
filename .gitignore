@@ -1,0 +1,4 @@
+#folder with scraped json files
+scraped-reviews/
+
+.ipynb_checkpoints
