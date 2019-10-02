@@ -5,3 +5,5 @@ scraped-reviews/
 
 *.pkl
 *.h5
+
+*.pth
