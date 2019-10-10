@@ -2,6 +2,7 @@
 scraped-reviews/
 
 .ipynb_checkpoints
+.vscode
 
 *.pkl
 *.h5
